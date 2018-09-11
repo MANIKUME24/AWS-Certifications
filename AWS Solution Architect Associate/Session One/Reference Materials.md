@@ -1,4 +1,5 @@
-[AWS Overview](https://d0.awsstatic.com/whitepapers/aws-overview.pdf)
+1. [AWS Overview](https://d0.awsstatic.com/whitepapers/aws-overview.pdf)
+2. [Create AWS Free Tier Account](https://aws.amazon.com/free/)
 
 [![](http://img.youtube.com/vi/qcY-uiEHhn0/0.jpg)](http://www.youtube.com/watch?v=qcY-uiEHhn0 "")
 [![](http://img.youtube.com/vi/ubCNZRNjhyo/0.jpg)](http://www.youtube.com/watch?v=ubCNZRNjhyo "")
