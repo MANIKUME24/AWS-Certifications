@@ -7,6 +7,9 @@
 2. [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)
 3. [Create AWS Free Tier Account](https://aws.amazon.com/free/)
 
+***AWS Global Infrastructure Exam Tips***
+
+![AWS Global Infrastructure](https://user-images.githubusercontent.com/11020227/45333056-b63cc780-b539-11e8-8608-b511747e695c.png "AWS Global Infrastructure Exam Tips")
 
 [![](http://img.youtube.com/vi/mZ5H8sn_2ZI/0.jpg)](http://www.youtube.com/watch?v=mZ5H8sn_2ZI "")
 [![](http://img.youtube.com/vi/r4YIdn2eTm4/0.jpg)](http://www.youtube.com/watch?v=r4YIdn2eTm4 "")
