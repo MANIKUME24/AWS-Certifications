@@ -1,15 +1,3 @@
-1. [AWS Overview](https://d0.awsstatic.com/whitepapers/aws-overview.pdf)
-2. [Create AWS Free Tier Account](https://aws.amazon.com/free/)
-
-
-[![](http://img.youtube.com/vi/mZ5H8sn_2ZI/0.jpg)](http://www.youtube.com/watch?v=mZ5H8sn_2ZI "")
-[![](http://img.youtube.com/vi/r4YIdn2eTm4/0.jpg)](http://www.youtube.com/watch?v=r4YIdn2eTm4 "")
-[![](http://img.youtube.com/vi/0iQBAss5u38/0.jpg)](http://www.youtube.com/watch?v=0iQBAss5u38 "")
-[![](http://img.youtube.com/vi/qcY-uiEHhn0/0.jpg)](http://www.youtube.com/watch?v=qcY-uiEHhn0 "")
-[![](http://img.youtube.com/vi/ubCNZRNjhyo/0.jpg)](http://www.youtube.com/watch?v=ubCNZRNjhyo "")
-[![](http://img.youtube.com/vi/IT1X42D1KeA/0.jpg)](http://www.youtube.com/watch?v=IT1X42D1KeA "")
-
-
 ## Self-Paced Introductory Labs ##
 https://amazon.qwiklabs.com/searches/lab?keywords=introduction%20to
 
