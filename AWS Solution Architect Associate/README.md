@@ -8,5 +8,4 @@ https://amazon.qwiklabs.com/quests/10?locale=en
 
 
 ## Linux Academy Free AWS Solution Architect Associate Course On Youtube
-
-[![](http://img.youtube.com/vi/nCV6ywEYbjk/0.jpg)](http://www.youtube.com/watch?v=nCV6ywEYbjk "")
+https://www.youtube.com/watch?v=nCV6ywEYbjk&list=PLv2a_5pNAko3JS4Ba0DA9-QkI8Jf4oEHy
